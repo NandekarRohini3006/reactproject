@@ -1,0 +1,53 @@
+.packheading {
+  color: rgba(111, 108, 144, 1);
+
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23.44px;
+  letter-spacing: -3.1%;
+  text-align: left;
+}
+h2 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -6%;
+  text-align: left;
+}
+@media (max-width: 500px) {
+  h2 {
+    font-size: 50px;
+  }
+  .packcard {
+    width: 80%;
+    margin: auto;
+  }
+}
+.packcard {
+  border: 1px solid rgba(239, 240, 246, 1);
+  box-shadow: 0px 2px 12px 0px rgba(20, 20, 43, 0.08);
+}
+
+.cardbutton {
+  background: linear-gradient(
+    90deg,
+    #dd7dff 0%,
+    #e1cd86 29.5%,
+    #8bcb92 51%,
+    #71c2ef 76.5%,
+    #3bffff 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+p {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.94px;
+  text-align: left;
+}

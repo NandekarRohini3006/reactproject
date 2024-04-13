@@ -1,0 +1,21 @@
+.footcont {
+  background: linear-gradient(180deg, #ffffff 27.96%, #d2dcff 102.93%);
+}
+.footerp {
+  color: rgba(188, 188, 188, 1);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.94px;
+  text-align: left;
+}
+.sociali {
+  color: rgba(128, 128, 128, 1);
+}
+.sociali:hover {
+  margin: 2px;
+  padding: 2px;
+}
+.footercont2 {
+  background-color: rgba(0, 0, 0, 1);
+}

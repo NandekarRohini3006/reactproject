@@ -1,0 +1,35 @@
+.btnpro {
+  border: 1px solid rgba(34, 34, 34, 0.1);
+  color: rgba(0, 0, 0, 1);
+  font-weight: 500;
+}
+.headpro {
+  background: linear-gradient(180deg, #000000 0%, #001354 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 60px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+  line-height: 70px;
+  letter-spacing: -0.6%;
+}
+.track {
+  background: linear-gradient(180deg, #ffffff 27.96%, #d2dcff 100%);
+}
+@media (max-width: 500px) {
+  h2 {
+    font-size: 50px;
+  }
+}
+.imgleft {
+  z-index: 1;
+  margin-top: 400px;
+  margin-right: -100px;
+  padding: 0;
+}
+.imgright {
+  z-index: 1;
+  margin-top: 85px;
+  margin-left: -95px;
+}
