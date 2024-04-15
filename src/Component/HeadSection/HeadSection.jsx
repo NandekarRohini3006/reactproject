@@ -85,7 +85,7 @@ const HeadSection = () => {
           </nav>
         </div>
         <div className="row d-flex">
-          <div className=" col-12 col-sm-12 col-md-4 col-lg-4">
+          <div className="py-4 col-12 col-sm-12 col-md-4 col-lg-4">
             <div>
               <button className="btn rounded-pill btn-sm btnver">
                 Version 2.0 is here
