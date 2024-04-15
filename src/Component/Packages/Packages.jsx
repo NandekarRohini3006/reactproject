@@ -15,7 +15,7 @@ const Packages = () => {
             </h2>
             <p className="text-center">
               Effortlessly turn your ideas a fully functional,
-              <br /> responsive, no-code SaaS website in just minutes with{" "}
+              <br /> responsive, no-code SaaS website in just minutes with
               <br />
               the set of free components for Framer.
             </p>

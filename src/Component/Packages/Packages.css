@@ -51,3 +51,10 @@ p {
   line-height: 16.94px;
   text-align: left;
 }
+.packcard:hover {
+  background-color: black;
+  color: white;
+}
+img:hover {
+  padding: 5px;
+}
